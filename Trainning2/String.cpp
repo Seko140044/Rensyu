@@ -1,10 +1,6 @@
 #include <stdio.h>
 
-//これが俺の物語だ！
-
-//狙うは一つ！シュートォ!
-
-//最後かもしれないだろ？
+//I'm absolutely crazy about it!
 
 void main()
 {
