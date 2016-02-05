@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//‚±‚ê‚ª‰´‚Ì•¨Œê‚¾I
+
 void main()
 {
 	char	a[] = "ABCDE";
